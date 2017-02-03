@@ -1,0 +1,31 @@
+body{
+  font-family: 'Noto Sans', sans-serif;
+  text-align:center;
+  font-size:20px;
+  background:url('http://www.mactel.com.au/mactelbook/2015/files/extfile/bg.jpg') no-repeat;
+  background-position:center;
+}
+.container{
+  border-radius:25px;
+  width:450px;
+  height:120px;
+  margin:0 auto;
+  padding:30px 10px 10px 10px;
+  background:honeydew;
+}
+.display{
+  margin:0 auto;
+  padding-top:15px;
+  
+}
+.display a{
+  text-decoration:none;
+  color:black;
+}
+.display button{
+  border-radius:10px;
+  background:lavender;
+}
+button:focus{
+  outline:none;
+}
